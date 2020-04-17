@@ -280,7 +280,8 @@ else {
 //Matriks JACOBIAN J = [J11 J12;J21 J22]
   J11 = -(L1*sin(q1) + L2*sin(q1+q2));
   J12 = -L2*sin(q1+q2);
-  J21 = L1*sin(q1) + L2*sin(q1+q2);
+  //J21 = L1*sin(q1) + L2*sin(q1+q2);
+  J21 = L1*cos(q1) + L2*cos(q1+q2);
   J22 = L2*cos(q1+q2);
 
 //Step 6
