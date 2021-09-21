@@ -3,4 +3,4 @@ This is my master degree college project which in this project I created a progr
 
 The video below shows the final result of the movement of the 2 DOF arm robot in pursuit and hitting the target.
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/3Pf68prg8d4/0.jpg)](http://www.youtube.com/watch?v=3Pf68prg8d4 "Robot 2 DOF Final Movement")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/3MzMBSx67qI/0.jpg)](http://www.youtube.com/watch?v=3MzMBSx67qI "Robot 2 DOF Final Movement")
